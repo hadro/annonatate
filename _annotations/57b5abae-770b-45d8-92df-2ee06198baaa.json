@@ -1,0 +1,5 @@
+---
+canvas: "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Horse?", "purpose": "commenting", "created": "2021-02-23T19:20:58.966Z", "creator": {"id": "hadro", "name": "Josh Hadro"}, "modified": "2021-02-23T19:21:03.986Z"}], "target": {"source": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:16468.8125,75.97058868408203,757.05078125,738.2596969604492"}, "dcterms:isPartOf": {"id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/57b5abae-770b-45d8-92df-2ee06198baaa.json"}
