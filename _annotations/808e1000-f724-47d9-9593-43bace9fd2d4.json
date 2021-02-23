@@ -1,0 +1,5 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/wh234bz9013_1"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Sky lobster? ", "purpose": "commenting", "created": "2021-02-23T19:23:00.602Z", "creator": {"id": "hadro", "name": "Josh Hadro"}, "modified": "2021-02-23T19:23:02.996Z"}], "target": {"source": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/wh234bz9013_1", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:4805.5478515625,3764.703369140625,987.54638671875,1037.078369140625"}, "dcterms:isPartOf": {"id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/808e1000-f724-47d9-9593-43bace9fd2d4.json"}
